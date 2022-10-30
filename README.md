@@ -13,6 +13,7 @@ It is a responsive website that allows different users to create profile, login,
   - Like posts
   - Comment on Posts
     - View all comments on posts
+  - Edit posts
 - Search for users
 - Deleting Posts
 - Profile Pages
@@ -71,5 +72,11 @@ It is a responsive website that allows different users to create profile, login,
   - Run the whole file.
   - A database named 'social' is created in your local machine.
 - Now the React App is running on port 3000 and Express App is running on port 3001.
+
+## Collaborators
+- [Khushi Agarwal](https://github.com/Khushi724)
+- [Abhinav Kumar](https://github.com/kr-2003)
+
+
 
 
