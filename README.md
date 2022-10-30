@@ -21,4 +21,6 @@ It is a responsive website that allows different users to create profile, login,
 
 ## Screenshots
 
+![](https://res.cloudinary.com/abhi9av/image/upload/v1667153445/Screenshot_2022-10-30_at_11.21.56_PM_fmr8ig.png)
+
 
