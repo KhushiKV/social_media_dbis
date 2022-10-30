@@ -6,3 +6,10 @@ It is a responsive website that allows different users to create profile, login,
 - NodeJS preinstalled
 - Any IDE(ie. IntelliJ, Android Studio, VSCode etc)
 - A little knowledge of [ReactJS](https://reactjs.org/), [ExpressJS](https://expressjs.com/) and [MySQL](https://www.mysql.com/).
+
+## Features
+- Post content
+- Post images from gallery or local storage
+  - Like posts
+  - Comment on Posts
+    - View all comments on posts
