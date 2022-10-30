@@ -41,15 +41,15 @@ It is a responsive website that allows different users to create profile, login,
 - Open two terminals 
   - One for client side 
   - Another for server side
-- Run this command to get into client directory__
+- Run this command to get into client directory <br />
 ``` cd client ```
-- Run this command to get into server directory__
+- Run this command to get into server directory <br />
 ``` cd server ```
-- In both terminals run the following command to install all the NodeJS dependencies__
+- In both terminals run the following command to install all the NodeJS dependencies <br />
 ``` npm install ```
-- Run the following command in client terminal__
+- Run the following command in client terminal <br />
 ``` npm start ```
-- Run the following command in server terminal__
+- Run the following command in server terminal <br />
 ``` nodemon index.js ```
 
 
