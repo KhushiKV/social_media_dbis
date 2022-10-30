@@ -33,6 +33,20 @@ It is a responsive website that allows different users to create profile, login,
 ***
 ![](https://res.cloudinary.com/abhi9av/image/upload/v1667153446/Screenshot_2022-10-30_at_11.24.31_PM_qadvya.png)
 
+## Tech Stack
+### Frontend
+- [ReactJS](https://reactjs.org/)
+- [MaterialUI](https://mui.com/)
+- [TailwindCSS](https://tailwindui.com/)
+- [Bootstrap](https://getbootstrap.com/)
+
+### Backend
+- [NodeJS](https://nodejs.org/en/)
+- [ExpressJS](https://expressjs.com/)
+- [MySQL](https://www.mysql.com/)
+- [Axios](https://www.npmjs.com/package/axios)
+- [BcryptJS](https://www.npmjs.com/package/bcrypt)
+
 ## Installation
 
 - Install [NodeJS](https://nodejs.org/en/)
