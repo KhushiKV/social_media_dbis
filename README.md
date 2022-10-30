@@ -13,3 +13,9 @@ It is a responsive website that allows different users to create profile, login,
   - Like posts
   - Comment on Posts
     - View all comments on posts
+- Search for users
+- Deleting Posts
+- Profile Pages
+  - Follow / Unfollow Users
+- All posts of users that you follow at one dashboard
+
