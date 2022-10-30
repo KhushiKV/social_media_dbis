@@ -19,3 +19,6 @@ It is a responsive website that allows different users to create profile, login,
   - Follow / Unfollow Users
 - All posts of users that you follow at one dashboard
 
+## Screenshots
+
+
