@@ -33,5 +33,23 @@ It is a responsive website that allows different users to create profile, login,
 ***
 ![](https://res.cloudinary.com/abhi9av/image/upload/v1667153446/Screenshot_2022-10-30_at_11.24.31_PM_qadvya.png)
 
+## Installation
+
+- Install [NodeJS](https://nodejs.org/en/)
+- Setup [Visual Studio Code](https://code.visualstudio.com/)
+- Clone the repo
+- Open two terminals 
+  - One for client side 
+  - Another for server side
+- Run this command to get into client directory
+``` cd client ```
+- Run this command to get into server directory
+``` cd server ```
+- In both terminals run the following command to install all the NodeJS dependencies
+``` npm install ```
+- Run the following command in client terminal
+``` npm start ```
+- Run the following command in server terminal
+``` nodemon index.js ```
 
 
