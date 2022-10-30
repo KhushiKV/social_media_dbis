@@ -37,6 +37,7 @@ It is a responsive website that allows different users to create profile, login,
 
 - Install [NodeJS](https://nodejs.org/en/)
 - Setup [Visual Studio Code](https://code.visualstudio.com/)
+- Setup [MySQL](https://www.mysql.com/)
 - Clone the repo
 - Open two terminals 
   - One for client side 
@@ -51,5 +52,10 @@ It is a responsive website that allows different users to create profile, login,
 ``` npm start ```
 - Run the following command in server terminal <br />
 ``` nodemon index.js ```
+- To setup local database 
+  - Open social.sql in MySQL Workbench.
+  - Run the whole file.
+  - A database named 'social' is created in your local machine.
+- Now the React App is running on port 3000 and Express App is running on port 3001.
 
 
